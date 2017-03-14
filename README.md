@@ -1,11 +1,11 @@
 Good Good Study,Day Day Up!
 ===
-### è¿‘æœŸå…¬å‘Š
-- è¿‘æœŸè®¡åˆ’ç»„ç»‡å­¦ä¹ ç”±deepmindå’Œoxfordå…±åŒæ¨å‡ºçš„deep nlpçš„è¯¾ç¨‹ï¼Œæœ¬å‘¨ä¸»è¦æ¢è®¨lecture1aå’Œ1bï¼Œå»ºè®®å„ä½åšå¥½è¯¾ç¨‹ç¬”è®°ï¼Œæœ€ç»ˆå¯ä»¥åœ¨githubä¸Šç»´æŠ¤ä¸€ä¸ªæ•´åˆç¬”è®°ï¼Œæš‚å®šå‘¨æœ«è®¨è®ºï¼Œé™¤äº†è¯¾ç¨‹å†…å®¹å¤–ï¼Œå¯ä»¥å¯¹äº¤æµå½¢å¼æå‡ºä¸€äº›æƒ³æ³•ã€‚
-- è¯¾ç¨‹ä¸»é¡µæ˜¯ï¼šhttps://github.com/oxford-cs-deepnlp-2017/lectures
-- ç¬”è®°ç»´æŠ¤repoæ˜¯ï¼šhttps://github.com/nlp-study-group/oxford-deepnlp
+### ½üÆÚ¹«¸æ
+- ½üÆÚ¼Æ»®×éÖ¯Ñ§Ï°ÓÉdeepmindºÍoxford¹²Í¬ÍÆ³öµÄdeep nlpµÄ¿Î³Ì£¬±¾ÖÜÖ÷ÒªÌ½ÌÖlecture1aºÍ1b£¬½¨Òé¸÷Î»×öºÃ¿Î³Ì±Ê¼Ç£¬×îÖÕ¿ÉÒÔÔÚgithubÉÏÎ¬»¤Ò»¸öÕûºÏ±Ê¼Ç£¬Ôİ¶¨ÖÜÄ©ÌÖÂÛ£¬³ıÁË¿Î³ÌÄÚÈİÍâ£¬¿ÉÒÔ¶Ô½»Á÷ĞÎÊ½Ìá³öÒ»Ğ©Ïë·¨¡£
+- ¿Î³ÌÖ÷Ò³ÊÇ£ºhttps://github.com/oxford-cs-deepnlp-2017/lectures
+- ±Ê¼ÇÎ¬»¤repoÊÇ£ºhttps://github.com/nlp-study-group/oxford-deepnlp
 
-### è¯¾ç¨‹å¤§çº²
+### ¿Î³Ì´ó¸Ù
 - [CS229: Machine Learning](http://cs229.stanford.edu/)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
@@ -13,7 +13,7 @@ Good Good Study,Day Day Up!
 - [Deep Learning for NLP at Oxford 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
-### è¯¾ç¨‹è§†é¢‘
+### ¿Î³ÌÊÓÆµ
 - [CS229: Machine Learning](http://open.163.com/special/opencourse/machinelearning.html)
 - [Neural Networks for Machine Learning](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 - [CS224d: Deep Learning for Natural Language Processing](http://www.bilibili.com/video/av9143821/)
